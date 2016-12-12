@@ -1,0 +1,6 @@
+2013mar27,
+
+example taken from the web,
+never compiled so far.
+
+spi.
